@@ -22,3 +22,4 @@ export const ProductsProvider = ({ children }) => {
     </ProductsContext.Provider>
   );
 };
+
